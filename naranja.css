@@ -1,0 +1,21 @@
+h1{
+color: rgb(197, 20, 102);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.JASPER {
+    color: rgb(60, 155, 147);
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+table,td {border-collapse: unset;
+border: 1px;
+border:solid violet;
+}
+img:hover
+{
+
+filter: saturate(10000000000000000000000%);
+border-radius:100%;
+box-shadow: 0px 0px 15px 15px #9e0c0c;
+-webkit-transform: rotateY(60deg);
+filter: opacity(.9999999999);}
